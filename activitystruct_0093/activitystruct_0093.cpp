@@ -23,5 +23,7 @@ int main() {
 		getline(cin, mhs[i].nama);
 		cout << "Alamat Mahasiswa : " << endl;
 		cout << "\t Nama Desa : ";
+		cin >> mhs[i].alamat.desa;
+		
 	}
 }
