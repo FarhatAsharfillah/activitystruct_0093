@@ -19,6 +19,7 @@ int main() {
 		cout << "Data ke-" << (i + 1) << ":" << endl;
 		cout << "Nomor Mahasiswa :";
 		getline(cin, mhs[i].nim);
+		cout << "Nama Mahasiswa : ";
 		
 	}
 }
